@@ -1,0 +1,74 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,500&display=swap');
+
+.nav-list{
+    font-family: Roboto;
+    display: flex;
+    float: right;
+    text-indent: 20px;
+    font-size: larger;
+    font-weight: 500;
+    text-decoration: none;
+    list-style: none;
+}
+body{
+   padding-top: 0px; 
+   background-color: skyblue;
+   text-align: center;
+}
+
+.head-1{
+    color: white;
+    padding-top: 200px;
+    font-weight: 1000;
+    font-size: 80px;
+    font-family: Roboto;
+}
+.paragraph-1{
+    color: maroon;
+    font-weight: 800;
+    font-size: 40px;
+}
+.welcome-section{
+    text-align: center;
+    line-height: 20px;
+}
+
+.head-2{
+    text-align: center;
+    padding-top: 250px;
+    font-size: 60px;
+    color: white;
+    text-decoration: underline;
+    font-family: 'Roboto'
+}
+
+.project-title{
+    color: maroon;
+    text-align: center;
+    font-size: 35px;
+    font-family: cursive;
+}
+.head-3{
+    text-align: center;
+    color: white;
+    font-size: 80px;
+    font-weight: 800;
+    font-family: 'Roboto';
+}
+.paragraph-3{
+    text-align: center;
+    color: blue;
+    font-size: 40px;
+    font-family: cursive;
+}
+.contact-links{
+    text-align: center;
+}
+.link-title{
+    font-size: 35px;
+    display: inline;
+}
+footer{
+    font-size: 18px;
+}
